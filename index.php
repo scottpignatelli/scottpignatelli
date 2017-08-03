@@ -456,8 +456,7 @@ Set company record for sales leads results from a single ad (96), (August 2008)<
             <div class="heading text-center">
                 <!-- Heading -->
                 <h2>Professional Portfolio</h2>
-                <p>Examples of Work for employers and clients.<br>
-                    Looking for examples of code from projects I've worked on? Check out my <a href="http://github.com/scottpignatelli">GitHub profile</a>.  It's always being updated so make sure to check back.</p>
+                <p>Examples of Work for employers and clients.  Looking for examples of code from projects I've worked on? Check out my <a href="http://github.com/scottpignatelli">GitHub profile</a>.  It's updated when new projects are completed so make sure to check back.</p>
             </div>
 
             <div class="row">
