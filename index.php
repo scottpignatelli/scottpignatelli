@@ -456,18 +456,13 @@ Set company record for sales leads results from a single ad (96), (August 2008)<
             <div class="heading text-center">
                 <!-- Heading -->
                 <h2>Professional Portfolio</h2>
-                <p>Examples of Work for employers and clients.</p>
+                <p>Examples of Work for employers and clients.<br>
+                    Looking for examples of code from projects I've worked on? Check out my <a href="http://github.com/scottpignatelli">GitHub profile</a>.  It's always being updated so make sure to check back.</p>
             </div>
 
             <div class="row">
                 <nav id="filter" class="col-md-12 text-center">
-                    <!--<ul>
-                        <li><a href="#all" class="current btn-theme btn-small" data-filter="*">All</a></li>
-                        <li><a href="#webdesign" class="btn-theme btn-small" data-filter=".webdesign">Web Design</a></li>
-                        <li><a href="#digitalart" class="btn-theme btn-small" data-filter=".digitalart">Digital Art</a></li>
-                        <li><a href="#print" class="btn-theme btn-small" data-filter=".print">Print</a></li>
-                        <li><a href="#photography" class="btn-theme btn-small" data-filter=".photography">Photography</a></li>
-                    </ul>-->
+                    
                 </nav>
                 <div class="col-md-12">
                     <div class="row">
@@ -932,7 +927,7 @@ Set company record for sales leads results from a single ad (96), (August 2008)<
     <section class="copyright">
         <div class="container">
             <div class="row">
-            <h2>&copy;2016</h2> 
+            <h2>&copy; <?php echo date("Y");?></h2> 
             </div>
             <!-- / .row -->
         </div>
